@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/05/09 16:19:31.000.480,=C:\Users\rodri\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/07/29 15:26:25.000.068,=C:\Users\rodri\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2024/07/29 17:40:37.000.588,=C:\Users\rodri\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2024/08/12 15:36:32.103,=C:\Users\rodri\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2024/08/12 15:38:10.594,=C:\Users\rodri\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2024/08/12 17:14:05.179,=C:\Users\rodri\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2024/08/12 17:14:10.198,=C:\Users\rodri\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2024/08/12 17:29:40.308,=C:\Users\rodri\Documents\Embarcadero\Studio\Projects\Unit5.pas</Transaction>
+    <Transaction>2024/08/12 18:08:42.656,C:\Users\rodri\Desktop\RTTI Example\Model\Model.Pessoa.pas=C:\Users\rodri\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2024/08/12 18:09:24.918,C:\Users\rodri\Desktop\RTTI Example\Attribute\Attribute.DB.pas=C:\Users\rodri\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2024/08/12 18:09:57.859,C:\Users\rodri\Desktop\RTTI Example\View.Principal.pas=C:\Users\rodri\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2024/08/12 18:09:57.859,C:\Users\rodri\Desktop\RTTI Example\View.Principal.dfm=C:\Users\rodri\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2024/08/12 18:10:58.125,C:\Users\rodri\Desktop\RTTI Example\RTTIExample.dproj=C:\Users\rodri\Documents\Embarcadero\Studio\Projects\Project2.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
